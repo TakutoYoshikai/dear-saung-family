@@ -15,11 +15,13 @@ body {
   font-size: 30px;
   margin-top: 180px;
   margin-bottom: 180px;
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
 }
 
 .dear {
   text-align: center;
   font-size: 26px;
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
 }
 .description {
   width: 100%;
